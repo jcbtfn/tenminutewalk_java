@@ -1,0 +1,8 @@
+# User stories
+
+As a user I want to receive a suggested route and be able to finish at the same 
+spot that I started (circular route)
+As a user I want to do this in 10 minutes, every street you walk through is 1 minutes
+
+# I want a function that returns a Boolean, receives an array of chars
+
